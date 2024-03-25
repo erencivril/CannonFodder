@@ -1,0 +1,2 @@
+# CannonFodder (First Year Project made in 2021-2022)
+Cannon Fodder is a basic strategy game. In the game, players have 3 chacters named “Fighter, Tank and Healer”. Each character has its own special methods and some general methods. Moreover, characters have weapons, shields and armors to wield and user. It is a level based game, so it gets harder at each level because the number of enemies increases. Purpose of the game is that players try to kill enemies as much as possible to get highest score.
